@@ -6,8 +6,8 @@ const UserCard = ({ name, id }) => {
 		<Card>
 			<p>{name}</p>
 		</Card>
-	);
-};
+	)
+}
 
 export default UserCard;
 
